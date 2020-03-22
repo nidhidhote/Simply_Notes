@@ -1,0 +1,5 @@
+<root>
+    <item name='android.content.Context java.io.File getFilesDir()'>
+        <annotation name='org.jetbrains.annotations.Nullable' />
+    </item>
+</root>
